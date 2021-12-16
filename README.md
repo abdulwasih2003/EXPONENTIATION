@@ -23,7 +23,7 @@ def expo(a):
 expo(a)
 ~~~
 ## Output:
-![exponentiation](exp.png)
+![exp](exp.png)
 
 
 ## Result:
